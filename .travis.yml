@@ -5,4 +5,4 @@ before_install:
   - pip install pygraphblas
   - pip install pillow
 script:
-  - python Test.py
+  - python tests/Test.py
