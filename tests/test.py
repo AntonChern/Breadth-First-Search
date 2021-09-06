@@ -1,5 +1,5 @@
 import unittest
-from algorithms.bfs import *
+from Breadth-First-Search.algorithms.bfs import *
 
 class TestUM(unittest.TestCase):
     def setUp(self):
