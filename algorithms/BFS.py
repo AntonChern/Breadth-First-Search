@@ -1,4 +1,3 @@
-
 from pygraphblas import *
 
 def bfs(matrix, start_vertices):
