@@ -5,3 +5,5 @@ before_install:
   - pip install pygraphblas
   - pip install numpy
   - pip install pillow
+script
+  - pytest
