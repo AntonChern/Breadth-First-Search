@@ -3,5 +3,5 @@ python:
   - "3.9"
 before_install:
   - pip install pygraphblas
-script
+script:
   - pytest
