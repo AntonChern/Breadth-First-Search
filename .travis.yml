@@ -4,4 +4,4 @@ python:
 before_install:
   - pip install pygraphblas
 script:
-  - pytest Test.py
+  - pytest tests/Test.py
