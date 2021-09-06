@@ -4,4 +4,4 @@ python:
 before_install:
   - pip install pygraphblas
 script:
-  - cd tests && nosetests -v -v
+  - python -m pytest
