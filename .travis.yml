@@ -5,4 +5,4 @@ before_install:
   - pip install pygraphblas
   - pip install pillow
 script:
-  - python tests/Test.py
+  - python src/searchAlgorithms/BFS.py
