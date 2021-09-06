@@ -5,5 +5,5 @@ before_install:
   - pip install pygraphblas
   - pip install numpy
   - pip install pillow
-script:
-  - python src/searchAlgorithms/BFS.py
+#script:
+ # - python src/searchAlgorithms/BFS.py
