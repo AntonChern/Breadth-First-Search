@@ -7,4 +7,4 @@ before_install:
 install:
   - pip install -r requirements.txt
 script:
-  - python -m test.py
+  - python tests/test.py
